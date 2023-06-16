@@ -1,0 +1,50 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{摘\hskip 1em\relax 要}{I}{figure.caption.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{ABSTRACT}{III}{figure.caption.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {第一章}绪论}{1}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}引言}{1}{subsection.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2}本文主要研究内容}{1}{subsection.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3}本文研究意义}{1}{subsection.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4}本章小结}{1}{subsection.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {第二章}正文文字格式}{2}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}论文正文}{2}{subsection.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}字数要求}{2}{subsection.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1}硕士论文字数要求}{2}{subsubsection.2.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.2}博士论文字数要求}{2}{subsubsection.2.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}引用格式}{2}{subsection.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4}本章小结}{2}{subsection.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {第三章}图表、公式格式}{3}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}图表格式}{3}{subsection.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}公式格式}{4}{subsection.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}本章小结}{4}{subsection.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {第四章}全文总结}{5}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}主要结论}{5}{subsection.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}研究展望}{5}{subsection.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{附录}{6}{subsection.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{攻读学位期间学术论文和科研成果目录}{7}{subsection.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{致\hskip 2em\relax 谢}{8}{subsection.4.2}%
+\contentsfinish 
